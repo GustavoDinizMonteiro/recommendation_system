@@ -8,8 +8,9 @@ name = "pypi"
 [packages]
 jupyter = "*"
 ipython = "*"
-numpy = "*"
 scikit-surprise = "*"
+numpy = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.5"
